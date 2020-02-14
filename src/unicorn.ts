@@ -1,5 +1,5 @@
 export class Unicorn {
   public sayHelloTo(name: string): string {
-    return `🦄 Hello ${name} !`;
+    return `🦄 Hello World ${name} !`;
   }
 }

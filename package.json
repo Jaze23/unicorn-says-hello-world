@@ -1,6 +1,6 @@
 {
   "name": "unicorn-says-hello-world",
-  "version": "1.0.6",
+  "version": "3.0.0",
   "description": "A unicorn that says hello world",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
