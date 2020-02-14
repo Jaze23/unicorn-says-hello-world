@@ -1,0 +1,21 @@
+{
+  "name": "unicorn-says-hello-world",
+  "version": "1.0.6",
+  "description": "A unicorn that says hello world",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaze23/unicorn-says-hello-world.git"
+  },
+  "keywords": [],
+  "author": "Jaze23",
+  "license": "ISC"
+}
